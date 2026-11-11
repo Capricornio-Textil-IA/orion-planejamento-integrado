@@ -1,0 +1,12 @@
+*
+!Dockerfile
+!pyproject.toml
+!uv.lock
+!frontend/
+!frontend/**
+!app/
+!app/**
+frontend/node_modules
+frontend/.env*
+app/__pycache__
+app/static
